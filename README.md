@@ -1,5 +1,5 @@
 # Block Spotify Advertisements
-Methods to blocking Spotify audio/banner advertisements on multiple platforms.
+Methods to blocking Spotify audio/banner advertisements across multiple platforms.
 
 ![Showcase](http://i.imgur.com/85w2HyI.jpg)
 
